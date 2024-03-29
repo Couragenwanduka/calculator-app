@@ -1,0 +1,109 @@
+.container{
+ background-color: black;
+ width: 350px;
+ height: 590px;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+    background-color: aqua;
+}
+#input{
+    width: 340px;
+    height: 90px;
+    margin-top: 0px;
+    background-color: black;
+    border: none;
+    color: white;
+    font-size: 20px;
+    align-items: end;
+    word-break: break-word;
+    
+}
+
+#AC,#DEL,#modolo{
+    margin-top: 30PX;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    color: black;
+    border: none;
+    padding: 10px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+#division,#plus,#minus,#multiply,#equal{
+    margin-top: 30PX;
+    background-color: goldenrod;
+    border-radius: 20px;
+    color: black;
+    border: none;
+    width: 50px;
+    height: 40px;
+    margin-left: 40px;
+    font-size: 30px;
+}
+
+#seven, #eight ,#nine{
+    margin-top: 10PX;
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    width: 50px;
+    height: 40px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+#four, #five, #six{
+    margin-top: 10PX;
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    width: 50px;
+    height: 40px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+#one, #two, #three{
+    margin-top: 10PX;
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    width: 50px;
+    height: 40px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+#dot{
+    margin-top: 20PX;
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    width: 50px;
+    height: 40px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+#zero{
+    margin-top: 20PX;
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    width: 150px;
+    height: 40px;
+    margin-left: 15px;
+    font-size: 20px;
+    
+}
+p{
+    color: white;
+    font-size: 30px;
+}
